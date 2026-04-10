@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>はじめての活動ガイド｜れいわを勝手に応援する八戸のなかまたち</title>
+  <meta name="description" content="れいわ新選組を八戸で応援したい方向けの活動ガイド。チラシ・ポスターの入手方法、活動のルール、よくある疑問をまとめました。">
+  <meta name="keywords" content="れいわ,八戸,れいわ新選組,ボランティア,活動,青森県,チラシ,ポスター">
+  <link rel="canonical" href="https://r-8nohe.github.io/home/guide.html">
+  <meta property="og:title" content="はじめての活動ガイド｜れいわを勝手に応援する八戸のなかまたち">
+  <meta property="og:description" content="れいわ新選組を八戸で応援したい方向けの活動ガイド。チラシ・ポスターの入手方法、活動のルール、よくある疑問をまとめました。">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://r-8nohe.github.io/home/guide.html">
+  <meta property="og:locale" content="ja_JP">
+  <style>
+    :root{--pink:#e4007e;--pink-light:#fdf0f5;--pink-bg:#fff5f9;--text:#1a1a1a;--gray:#666;--light-gray:#f5f5f5;--border:#e0e0e0}
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;background:#fff;color:var(--text);min-height:100vh;display:flex;flex-direction:column}
+    header{background:var(--pink);color:#fff;text-align:center;padding:2rem 1.5rem 1.5rem}
+    .back{display:inline-block;color:rgba(255,255,255,.8);font-size:.8rem;text-decoration:none;margin-bottom:.8rem}
+    .back:hover{color:#fff}
+    header h1{font-size:clamp(1.2rem,3.5vw,1.7rem);line-height:1.5;font-weight:900}
+    header p{font-size:.85rem;margin-top:.5rem;opacity:.85}
+
+    main{flex:1;max-width:640px;margin:0 auto;padding:1.5rem 1.2rem 3rem}
+
+    /* セクション */
+    .section{margin-bottom:2rem}
+    .section-number{display:inline-flex;align-items:center;justify-content:center;width:1.8rem;height:1.8rem;background:var(--pink);color:#fff;font-size:.75rem;font-weight:900;border-radius:50%;margin-right:.5rem;flex-shrink:0}
+    .section-title{display:flex;align-items:center;padding-bottom:.6rem;border-bottom:2px solid var(--pink);margin-bottom:1rem}
+    .section-title h2{font-size:1.05rem;line-height:1.5;font-weight:800}
+    .section p{font-size:.9rem;line-height:1.85;margin-bottom:.8rem;color:#333}
+
+    /* 補足ボックス */
+    .note{background:var(--pink-light);border-left:4px solid var(--pink);padding:.9rem 1rem;border-radius:0 .4rem .4rem 0;margin:1rem 0;font-size:.85rem;line-height:1.8}
+    .note-label{font-weight:700;color:var(--pink);font-size:.75rem;letter-spacing:.05em;margin-bottom:.3rem}
+
+    /* リンクカード */
+    .link-card{display:block;text-decoration:none;color:var(--text);border:1px solid var(--border);border-radius:.5rem;padding:.9rem 1rem;margin:.8rem 0;transition:background .15s,border-color .15s}
+    .link-card:hover{background:var(--pink-bg);border-color:var(--pink)}
+    .link-card-name{font-weight:700;font-size:.9rem;margin-bottom:.15rem}
+    .link-card-url{font-size:.7rem;color:#999}
+
+    /* ルール箇条 */
+    .rule-list{list-style:none;margin:.8rem 0}
+    .rule-list li{position:relative;padding:.5rem 0 .5rem 1.4rem;font-size:.88rem;line-height:1.7;border-bottom:1px solid #f0f0f0}
+    .rule-list li::before{content:"";position:absolute;left:0;top:.85rem;width:.55rem;height:.55rem;background:var(--pink);border-radius:50%;opacity:.6}
+
+    /* 強調テキスト */
+    .emphasis{background:var(--pink-bg);border-radius:.5rem;padding:1.2rem;margin:1.2rem 0;text-align:center;font-size:.95rem;line-height:1.8;font-weight:600;color:var(--pink)}
+
+    /* トップへ戻るリンク */
+    .back-to-top{display:block;text-align:center;margin:2rem 0 1rem;padding:.8rem;background:var(--light-gray);border-radius:.4rem;text-decoration:none;color:var(--gray);font-size:.85rem;font-weight:600}
+    .back-to-top:hover{background:var(--pink-light);color:var(--pink)}
+
+    footer{background:var(--light-gray);text-align:center;padding:1.2rem 1rem;font-size:.7rem;color:#999;line-height:1.7}
+  </style>
+</head>
+<body>
+  <header>
+    <a class="back" href="index.html">← トップページへ戻る</a>
+    <h1>はじめての活動ガイド</h1>
+    <p>活動してみたいけれど、どうしたらいい？と悩む方へ</p>
+  </header>
+
+  <main>
+
+    <!-- セクション1 -->
+    <div class="section">
+      <div class="section-title">
+        <span class="section-number">1</span>
+        <h2>日本一活動参加ハードルが低い政党へ<br>〜ひとりひとりが主権者〜</h2>
+      </div>
+      <p>れいわは県連や支部を持たないけれど、これを強みに変えて自主的なゲリラ活動が活発化していってほしいなと思います。</p>
+      <p>あなたが今すぐにどこかでポスターを持って立ったり、チラシを配ったり、ポスティングしたり、自分のペースで自分のやりたいことをできます。</p>
+      <p>例えば——</p>
+      <ul class="rule-list">
+        <li>近所に、散歩のついでにどこか1枚ポスティングしてみる</li>
+        <li>仕事帰りや買い物ついでにポスティング</li>
+        <li>知人に話したり動画を紹介してみる</li>
+        <li>グッズを身につける</li>
+      </ul>
+      <p>ひとりひとりの「ちょっと」が集まって大きな力になる可能性を秘めていると思っています。</p>
+
+      <div class="note">
+        <div class="note-label">【補足】支部について</div>
+        れいわ新選組の「規約」に「国会議員選挙予定候補者は総支部を結成できる」とあります。現在は、選挙の時に候補者ごとに支部が作られ、残念ながら当選できなかった場合は支部が解散になります。<br><br>
+        八戸市のように、国政や地方選挙に予定候補者がいない地域は支部自体が存在しないことになります。<br><br>
+        だからこそ、トップダウンではなく、ひとりひとりの自主的な活動が街じゅうに広がっていけばいいなと思います。
+      </div>
+    </div>
+
+    <!-- セクション2 -->
+    <div class="section">
+      <div class="section-title">
+        <span class="section-number">2</span>
+        <h2>違反にならないの？<br>こんなことしていいの？という不安について</h2>
+      </div>
+
+      <h3 style="font-size:.92rem;font-weight:700;margin:1rem 0 .5rem;color:var(--pink)">◆ 道路について</h3>
+      <p>公道での政治活動は基本的に道路使用許可証がなくてもOK。駅や公共施設、商業施設などの敷地内はNGです。</p>
+      <p>私が警察に問い合わせたところ、1人、チラシ配布（人を引き止めない）、スタンディングという条件なら道路使用許可証は不要とのこと。</p>
+      <p>ただし人数が増えたり人を引き止めたりテーブルなどを置くなどの場合は「ケースバイケース」とのことなので、警察署に電話して確認してみたほうが安心です。</p>
+
+      <h3 style="font-size:.92rem;font-weight:700;margin:1.2rem 0 .5rem;color:var(--pink)">◆ 党としての制約</h3>
+      <a class="link-card" href="https://vh.reiwa-shinsengumi.com/posts/faq" target="_blank" rel="noopener">
+        <div class="link-card-name">ボランティア本部 FAQ（公式）</div>
+        <div class="link-card-url">vh.reiwa-shinsengumi.com/posts/faq</div>
+      </a>
+      <ul class="rule-list">
+        <li><strong>自作チラシ・印刷物 → NG</strong><br>党が承認した印刷物と内容に食い違いがあった際には混乱を生み出す可能性があること、また公職選挙法の問題が生じる可能性がありますので、一律NG。</li>
+        <li><strong>個人ノボリ</strong><br>政党ノボリや政党ロゴは、現在所属議員または候補者、候補予定者にのみ貸与。個人で作成される場合の許可はとくに不要だけど正式な政党ロゴの使用はNG。</li>
+        <li><strong>選挙期間中は例外</strong><br>とてもややこしいですが、大まかにいうと選挙期間中の政治活動はNG。詳しくは、選挙が近づくと会員向けZoom会議などで説明されています。</li>
+      </ul>
+    </div>
+
+    <!-- セクション3 -->
+    <div class="section">
+      <div class="section-title">
+        <span class="section-number">3</span>
+        <h2>チラシやポスターはどうやって入手してるの？</h2>
+      </div>
+
+      <h3 style="font-size:.92rem;font-weight:700;margin:.5rem 0 .5rem;color:var(--pink)">◆ チラシ</h3>
+      <p>現時点では、公式ページからデータをダウンロードして、自分で印刷会社などに依頼する形になっています。</p>
+      <a class="link-card" href="https://reiwa-shinsengumi.com/flier/" target="_blank" rel="noopener">
+        <div class="link-card-name">チラシダウンロード（公式）</div>
+        <div class="link-card-url">reiwa-shinsengumi.com/flier</div>
+      </a>
+
+      <h3 style="font-size:.92rem;font-weight:700;margin:1.2rem 0 .5rem;color:var(--pink)">◆ ポスター</h3>
+      <p>ポスターは政党への寄附金などから制作されていて、公式ページから無料で送付してもらえます。</p>
+      <a class="link-card" href="https://supporters.reiwa-shinsengumi.com/poster" target="_blank" rel="noopener">
+        <div class="link-card-name">ポスター申し込み（公式）</div>
+        <div class="link-card-url">supporters.reiwa-shinsengumi.com/poster</div>
+      </a>
+    </div>
+
+    <!-- セクション4 -->
+    <div class="section">
+      <div class="section-title">
+        <span class="section-number">4</span>
+        <h2>紛らわしい？ボランティアになるには？</h2>
+      </div>
+      <p>誰がボランティアだ、誰がボランティアではないという区分さえもなくなっていけばいいなと思います。</p>
+      <p>街頭に立つ人も、ポスティングをする人も、知人に紹介する人も、支持者であることを内緒にしてひっそりとYouTube動画を観ている人も、みんなれいわのサポーターだと言われるようになっていくことを目指したいです。</p>
+
+      <div class="note">
+        <div class="note-label">【補足】各制度について</div>
+        党本部の「ボランティア登録」については、主にオーナーズ・フレンズ制度ができる前に募集されていたことが多く、党本部からのボランティアの案内メールが届いたりするもので、地域の活動とは無関係となっています。<br><br>
+        「れいわオーナーズ・フレンズ」は「会員」のようなものであり、ボランティア活動参加への必須条件ではありません。<br><br>
+        地域の活動については登録制ではなく、誰でも自主的に行うことができます。
+      </div>
+
+      <div class="emphasis">
+        支部がないから、チームがないから、と踏み出せていない方へ——<br>
+        チラシ1枚から、1人への紹介から、グッズを身につけてみることから。<br>
+        やりたいことを、できる範囲で。<br>
+        その力を集めて大きな力に変えていけるといいなと思います。
+      </div>
+    </div>
+
+    <a class="back-to-top" href="index.html">← トップページへ戻る</a>
+
+  </main>
+
+  <footer>
+    <p>当サイトはれいわ新選組の公式サイトではありません。<br>青森県八戸市の個人が自主的に運営しています。</p>
+  </footer>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Article",
+    "headline":"はじめての活動ガイド",
+    "description":"れいわ新選組を八戸で応援したい方向けの活動ガイド",
+    "url":"https://r-8nohe.github.io/home/guide.html",
+    "isPartOf":{
+      "@type":"WebSite",
+      "name":"れいわを勝手に応援する八戸のなかまたち",
+      "url":"https://r-8nohe.github.io/home/"
+    }
+  }
+  </script>
+</body>
+</html>
